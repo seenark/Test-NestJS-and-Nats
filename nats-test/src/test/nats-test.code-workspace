@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../test-backend"
+		},
+		{
+			"path": "../../../nats-test2"
+		}
+	],
+	"settings": {
+		"editor.formatOnSave": true
+	}
+}
